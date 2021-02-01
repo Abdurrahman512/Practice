@@ -21,7 +21,4 @@ if __name__=="__main__":
     t1.start()
     t2.start()
 
-    t1.join()
-    t2.join()
-
 
